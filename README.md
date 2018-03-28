@@ -1,5 +1,5 @@
 # yoda-speak
-Code-Heads Club | Clinic | Python | Learn to convert English to Yodish using spaCy
+Code-Heads Club | Clinic | Python | Learn to translate English to Yodish using spaCy
 
 ### "I will take you to him"
 ### "Take you to him I will"
