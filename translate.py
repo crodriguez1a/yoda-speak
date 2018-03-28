@@ -7,4 +7,4 @@ nlp = spacy.load('en')
 doc = nlp(u'I will take you to him')
 
 for token in doc:
-    print(token.pos_)
+    print(token, token.pos_)
